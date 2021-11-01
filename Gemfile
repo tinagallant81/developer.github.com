@@ -16,7 +16,7 @@ gem 'page-toc-filter', '~> 0.0.1'
 gem 'builder', '~> 3.2'
 
 group :development do
-  gem 'nokogiri', '~> 1.6.0'
+  gem 'nokogiri', '~> 1.6.8'
   gem 'rake', '10.3.2'
   gem 'awesome_print', '1.6.1'
 end
